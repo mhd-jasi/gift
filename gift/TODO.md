@@ -1,0 +1,3 @@
+- [x] Update image src attributes in p4 (photos section) from '.jpg' to '.jpeg' for images 5.jpg, 2.jpg, 3.jpg, 4.jpg
+- [x] Update image src attribute in p5 from '1.jpg' to '1.jpeg'
+- [x] Replace <img src="hug.gif.mp4" width="200"> with <video src="hug.gif.mp4" width="200" autoplay loop muted></video> in p3
